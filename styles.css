@@ -9,6 +9,8 @@
     font-family: sans-serif, serif;
     width: 80%;
     margin: auto;
+    max-width: 1500px;
+    min-width: 600px;
 }
 
 table{
@@ -36,7 +38,7 @@ tr:hover:not(.r0) {
   background-color: lightcyan;
 }
 
-tr:first-child{
+th{
     background-color: aqua;
 }
 
